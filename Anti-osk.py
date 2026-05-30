@@ -7,8 +7,8 @@ from aiogram.exceptions import TelegramBadRequest
 from groq import Groq
 
 # --- КОНФИГУРАЦИЯ ---
-TELEGRAM_TOKEN = "8861546243:AAHdbXZkKFq8id9155GQyXsE-DM3KWomO7s"
-GROQ_API_KEY = "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"
+TELEGRAM_TOKEN = "СЮДА_СВОЙ_ТОКЕН"
+GROQ_API_KEY = "СЮДА_СВОЙ_КЛЮЧ"
 
 # Список имен для проверки
 TARGET_NAMES = ["актерев", "шгш"]
